@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rcakradana@gmail.com**
 
-- ⚡ Fun fact **An extrovert**
+- ⚡ Fun fact **I am an extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
