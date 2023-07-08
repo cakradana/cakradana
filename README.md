@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cakradana&label=Profile%20views&color=0e75b6&style=flat" alt="cakradana" /> </p>
 
-- 🌱 I’m currently learning **Vuetify**
-
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **rcakradana@gmail.com**
