@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cakradana&label=Profile%20views&color=0e75b6&style=flat" alt="cakradana" /> </p>
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **rcakradana@gmail.com**
 
