@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div align="center">
   <img height="120" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  />
 </div>
@@ -92,8 +90,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cakradana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true" height="120" alt="stats graph"  />
