@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  />
+  <img height="120" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif"  />
 </div>
 
 ###
@@ -17,17 +17,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cakradana.cakradana&"  />
-</div>
-
-###
-
-<h1 align="center">Hi 👋</h1>
-
-###
-
-<h4 align="left">I'm Cakra from Indonesia 🇮🇩<br><br>- 🔭 I’m working as Frontend Web Developer<br>- 📚 I'm currently learning Strapi and AI<br>- ⚡ In my free time I ponder</h4>
+<p align="left">Hi👋, I'm Cakra from Indonesia 🇮🇩<br><br>- 💼 I’m working as Frontend Web Developer<br>- 📚 I'm currently learning Strapi and AI<br>- 🤔 In my free time I ponder</p>
 
 ###
 
